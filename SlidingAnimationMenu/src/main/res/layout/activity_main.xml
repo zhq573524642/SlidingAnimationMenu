@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zhq.com.slidingmenusuper.SlidingMenuSuper xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/index"
+    tools:context=".MainActivity">
+
+
+    <include layout="@layout/layout_menu"/>
+
+
+    <include layout="@layout/layout_main"/>
+
+
+</zhq.com.slidingmenusuper.SlidingMenuSuper>

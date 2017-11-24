@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyDemoTest.iml" filepath="$PROJECT_DIR$/MyDemoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingAnimationMenu/slidingmenusuper.iml" filepath="$PROJECT_DIR$/SlidingAnimationMenu/slidingmenusuper.iml" />
+      <module fileurl="file://D:\dev\soft\workspace\MyDemoTest\ShowText\app.iml" filepath="D:\dev\soft\workspace\MyDemoTest\ShowText\app.iml" />
+    </modules>
+  </component>
+</project>
